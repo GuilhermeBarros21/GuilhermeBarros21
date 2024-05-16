@@ -6,6 +6,10 @@
 <p align="justify">Olá! Sou  Guilherme Barros, estudante de Ciências da Computação com foco em front-end. Estou aprimorando minhas habilidades em React e React Native para me tornar um desenvolvedor front-end mais competente. 
 <br>
  Meus hobbies incluem jogos, animes e mangás, refletindo minha paixão pela tecnologia e design.</p>
+
+ <p align="justify">Hello! I'm Guilherme Barros, a Computer Science student focusing on front-end development. I'm honing my skills in React and React Native to become a more proficient front-end developer.
+<br>
+My hobbies include games, anime, and manga, reflecting my passion for technology and design.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
